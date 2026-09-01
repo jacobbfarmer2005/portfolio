@@ -24,5 +24,7 @@ Personal portfolio website: https://jacobbfarmer2005.github.io/portfolio/
 
 \- Italicized the companies under the "Experience" section to differentiate the employer from the job title.
 
-\- Added the "Extracurricular Activities" section with various professional development opportunities from my time in university.
+\- Added the "Professional Development" section with various professional development opportunities from my time in university.
+
+\- Reordered the sections so that the strongest appear first.
 
